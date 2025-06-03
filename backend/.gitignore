@@ -1,0 +1,65 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Debugger files
+.vscode/
+.idea/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Coverage and test output
+coverage/
+*.lcov
+
+# Build files
+dist/
+build/
+
+# Optional npm cache directory
+.npm/
+
+# Local history (if using JetBrains IDEs)
+.local-history/
+
+# Binaries
+*.exe
+*.out
+*.app
+
+# Others
+*.tgz
+*.gz
+
+# Mac system files
+*.DS_Store
+
+# Windows system files
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Optional: yarn
+.yarn/
+.pnp.*
